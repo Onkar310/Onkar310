@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Onkar310
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
 
 - 📫 How to reach me : by my email-onkarsangale135@gmail.com
 
